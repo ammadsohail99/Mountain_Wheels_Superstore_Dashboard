@@ -1,7 +1,9 @@
 # Mountain Wheels Superstore Dashboard
 
 ## Overview
-The Mountain Wheels Superstore Dashboard is a comprehensive Power BI project aimed at optimizing the retail chain's marketing strategies, expanding its market reach, and minimizing product returns. By integrating sales data, customer demographics, product performance, and quality feedback, the dashboard empowers the Mountain Wheels team to make data-driven decisions that enhance customer satisfaction and drive business growth. For Tracing steps refer to the ![Advice Networks with Centrality measures analysis](./Ex3_Network_Analysis_Syed_Ammad_Sohail.Rmd)
+The Mountain Wheels Superstore Dashboard is a comprehensive Power BI project aimed at optimizing the retail chain's marketing strategies, expanding its market reach, and minimizing product returns. By integrating sales data, customer demographics, product performance, and quality feedback, the dashboard empowers the Mountain Wheels team to make data-driven decisions that enhance customer satisfaction and drive business growth. For Tracing steps refer to the ![Report](./Mountain_Wheels_Dashboard_Report.pdf)
+
+For Dashboard Snippets, refer to the ![Snippets](./Mountain_Wheels_Dashboard_Snippets.pdf)
 
 ## Features
 
